@@ -4,4 +4,4 @@ This is a link React app
 
 ## Authors
 
-Sultan
+Sultan Mahmood Riaz
